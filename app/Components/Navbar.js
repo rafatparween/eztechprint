@@ -25,11 +25,11 @@ const Navbar = () => {
                 About
               </a>
             </Link>
-            <Link legacyBehavior href="/service">
+            {/* <Link legacyBehavior href="/service">
               <a className="text-lg text-gray-700 hover:text-blue-600 px-3 py-2 rounded-md transition duration-300">
                 Service
               </a>
-            </Link>
+            </Link> */}
             <Link legacyBehavior href="/Disclaimer">
               <a className="text-lg text-gray-700 hover:text-blue-600 px-3 py-2 rounded-md transition duration-300">
                 Disclaimer
