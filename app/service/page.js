@@ -9,7 +9,7 @@ export default function Services() {
         <div className="container mx-auto px-6 text-center">
           <h1 className="text-4xl font-bold mb-6">Our Premium Printing Services</h1>
           <p className="text-lg max-w-2xl mx-auto">
-            At EzTech-Print, we bring innovation, precision, and creativity to every printing solution. Explore our services and experience printing like never before.
+            At Ez tech Printer Solutions, we bring innovation, precision, and creativity to every printing solution. Explore our services and experience printing like never before.
           </p>
         </div>
       </header>
@@ -72,7 +72,7 @@ export default function Services() {
       <section className="bg-gradient-to-r from-blue-600 to-blue-800 text-white py-16">
         <div className="container mx-auto px-6 text-center">
           <h2 className="text-3xl font-bold mb-6">
-            Experience the EzTech-Print Difference
+            Experience the  At Ez tech Printer Solutions Difference
           </h2>
           <p className="text-lg max-w-2xl mx-auto mb-8">
             Contact us today to bring your ideas to life with our state-of-the-art printing solutions.
