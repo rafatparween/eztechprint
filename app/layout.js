@@ -14,8 +14,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata = {
-  title: "eztechprint",
-  description: "eztechprint",
+  title: "ijprinterlivesolution",
+  description: "ijprinterlivesolution",
 };
 
 export default function RootLayout({ children }) {

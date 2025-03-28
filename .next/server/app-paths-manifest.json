@@ -1,6 +1,10 @@
 {
+  "/Contact/page": "app/Contact/page.js",
+  "/Contact/brother/page": "app/Contact/brother/page.js",
+  "/Contact/brother/brotherinstall/page": "app/Contact/brother/brotherinstall/page.js",
   "/page": "app/page.js",
   "/about/page": "app/about/page.js",
-  "/service/page": "app/service/page.js",
+  "/Disclaimer/page": "app/Disclaimer/page.js",
+  "/terms&condition/page": "app/terms&condition/page.js",
   "/policy/page": "app/policy/page.js"
 }

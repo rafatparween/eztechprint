@@ -6,10 +6,10 @@ export default function About() {
       {/* Hero Section */}
       <header className="bg-blue-600 text-white py-16  ">
         <div className="container mx-auto px-4 text-center">
-          <h1 className="text-4xl font-bold mb-4 text-white">Welcome to At Ez tech Printer Solutions</h1>
+          <h1 className="text-4xl font-bold mb-4 text-white">Welcome to Ij Printer Live Solution</h1>
           <p className="text-lg">
             Revolutionizing the way you think about printing and design services.
-          </p> At Ez tech Printer Solutions
+          </p> Ij Printer Live Solution
         </div>
       </header>
 
@@ -32,7 +32,7 @@ export default function About() {
           <h2 className="text-3xl font-bold text-center mb-8 text-[#2563EB]">Our Mission</h2>
           <p className="text-lg leading-relaxed text-gray-700 mb-8">
             Our mission is to make printing simple, accessible, and affordable for everyone. 
-            Whether you're a small business owner, a student, or a corporate organization,  At Ez tech Printer Solutions
+            Whether you're a small business owner, a student, or a corporate organization, Ij Printer Live Solution
              is here to meet your printing needs with precision and care.
           </p>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
@@ -84,7 +84,7 @@ export default function About() {
         <div className="container mx-auto px-4 text-center">
           <h2 className="text-3xl font-bold mb-4">Ready to Get Started?</h2>
           <p className="text-lg mb-8">
-            Join thousands of satisfied customers who trust At Ez tech Printer Solutions for all their printing and design needs.
+            Join thousands of satisfied customers who trust Ij Printer Live Solution for all their printing and design needs.
           </p>
           <button className="bg-white text-blue-600 font-semibold py-2 px-6 rounded shadow hover:bg-gray-100">
             Contact Us

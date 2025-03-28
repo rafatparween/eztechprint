@@ -4,8 +4,8 @@ const Disclaimer = () => {
   return (
     <>
       <Head>
-        <title>Disclaimer | At Ez tech Printer Solutions</title>
-        <meta name="description" content="Disclaimer page for  At Ez tech Printer Solutions" />
+        <title>Disclaimer | Ij Printer Live Solution</title>
+        <meta name="description" content="Disclaimer page for Ij Printer Live Solution" />
       </Head>
 
       <div className="bg-gradient-to-r from-blue-500 via-teal-600 to-indigo-700 min-h-screen py-12 px-6 md:px-12 pt-16">
@@ -16,7 +16,7 @@ const Disclaimer = () => {
           </h1>
           <div className="space-y-6 text-gray-700">
             <p>
-              The information provided by  At Ez tech Printer Solutions (“we,” “us,” or “our”) on
+              The information provided by Ij Printer Live Solution (“we,” “us,” or “our”) on
               this website (the “Site”) is for general informational purposes
               only. All information on the Site is provided in good faith, and
               we make no representations or warranties of any kind, express or

@@ -10,7 +10,7 @@ const Navbar = () => {
           <div className="flex items-center">
             <Link legacyBehavior href="/">
               <a className="text-2xl font-bold text-blue-600">
-              At Ez tech Printer Solutions
+              Ij Printer Live Solution
               </a>
             </Link>
           </div>
@@ -25,9 +25,9 @@ const Navbar = () => {
                 About
               </a>
             </Link>
-            <Link legacyBehavior href="/service">
+            <Link legacyBehavior href="/Contact">
               <a className="text-lg text-gray-700 hover:text-blue-600 px-3 py-2 rounded-md transition duration-300">
-                Service
+              Contact
               </a>
             </Link>
             <Link legacyBehavior href="/Disclaimer">

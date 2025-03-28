@@ -11,15 +11,75 @@
       "static/chunks/main-app.js",
       "static/chunks/app/page.js"
     ],
+    "/Contact/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/Contact/page.js"
+    ],
+    "/Contact/hp/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/Contact/hp/page.js"
+    ],
+    "/Contact/hp/install/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/Contact/hp/install/page.js"
+    ],
+    "/Contact/hp/install/process/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/Contact/hp/install/process/page.js"
+    ],
+    "/Contact/hp/install/process/error.html/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/Contact/hp/install/process/error.html/page.js"
+    ],
+    "/Contact/canon/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/Contact/canon/page.js"
+    ],
+    "/Contact/canon/canoninstall/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/Contact/canon/canoninstall/page.js"
+    ],
+    "/Contact/epson/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/Contact/epson/page.js"
+    ],
+    "/Contact/epson/epsoninstall/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/Contact/epson/epsoninstall/page.js"
+    ],
+    "/Contact/brother/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/Contact/brother/page.js"
+    ],
+    "/Contact/brother/brotherinstall/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/Contact/brother/brotherinstall/page.js"
+    ],
     "/about/page": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
       "static/chunks/app/about/page.js"
     ],
-    "/service/page": [
+    "/Disclaimer/page": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
-      "static/chunks/app/service/page.js"
+      "static/chunks/app/Disclaimer/page.js"
+    ],
+    "/terms&condition/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/terms&condition/page.js"
     ],
     "/policy/page": [
       "static/chunks/webpack.js",
