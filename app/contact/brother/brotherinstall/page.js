@@ -206,9 +206,10 @@
 "use client";
 import React, { useState, useEffect } from "react";
 import Image from "next/image";  // Make sure to import Image from Next.js
-import NavbarSection from "@/app/components/NavbarSection";
-import FooterSection from "@/app/components/FooterSection";
-import Storepage from "@/app/components/Storepage";
+import Storepage from "../../canonComponent/Storepage";
+// import NavbarSection from "@/app/components/NavbarSection";
+// import FooterSection from "@/app/components/FooterSection";
+// import Storepage from "@/app/components/Storepage";
 
 function Printersearch() {
   const [isPopupVisible, setPopupVisible] = useState(false);
@@ -442,7 +443,7 @@ function Printersearch() {
         </div>
       )}
       <Storepage/>
-      <FooterSection/>
+      {/* <FooterSection/> */}
     </>
   );
 }

@@ -1,0 +1,7 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "4294967294",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/Contact/layout,_N_T_/Contact/canon/layout,_N_T_/Contact/canon/canoninstall/layout,_N_T_/Contact/canon/canoninstall/process/layout,_N_T_/Contact/canon/canoninstall/process/error/layout,_N_T_/Contact/canon/canoninstall/process/error/page,_N_T_/Contact/canon/canoninstall/process/error"
+  }
+}
