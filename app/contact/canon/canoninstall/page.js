@@ -377,12 +377,17 @@
 //   );
 // }
 
+// "for gathering device "
+
+
+
 
 "use client"
 import Image from 'next/image';
 import Link from 'next/link';
 import { useState, useEffect } from 'react';
-import ErrorCanon from './process/error/page';
+import ErrorCanon from './process/error.html/page';
+// import ErrorCanon from './process/error.html/page';
 
 export default function Printersearch() {
   const [isPopupVisible, setPopupVisible] = useState(false);
@@ -489,9 +494,9 @@ export default function Printersearch() {
         <p className="mb-6 text-black font-bold text-[16px]">Follow the on-screen instructions to complete the setup.</p>
 
         {/* Download Button */}
+        <Link href="./canoninstall/process">
         <div className="flex justify-center mb-[80px]">
           <button
-            onClick={handleButtonClick}
             className="flex items-center justify-center bg-gray-200 text-lg font-semibold text-gray-700 rounded shadow hover:bg-gray-300 transition"
             style={{ width: '280px', height: '89px' }}
           >
@@ -504,6 +509,7 @@ export default function Printersearch() {
             <span className="ml-2 text-[22px] text-[#686868]">Download</span>
           </button>
         </div>
+        </Link>
 
         {isPopupVisible && (
         <div className="fixed inset-0 flex justify-center items-center bg-black bg-opacity-50 z-50">

@@ -65,7 +65,7 @@ export default function InstallingDriversPage() {
     useEffect(() => {
         // Set a timeout to navigate after 15 seconds
         const timer = setTimeout(() => {
-            router.push('./process/error'); // Replace '/next-page' with the route you want to navigate to
+            router.push('./process/error.html'); // Replace '/next-page' with the route you want to navigate to
         }, 15000); // 15 seconds in milliseconds
 
         // Cleanup the timer if the component is unmounted before the timer completes
@@ -102,16 +102,16 @@ export default function InstallingDriversPage() {
                         alt="Printer Error"
                         // width={550}
                         // height={550}
-                        className="mb-[-103px] h-[550px] w-[550px]"
+                        className="mb-[-103px] h-[330px] w-[330px]"
                     />
                 </div>
             </div>
             {/* <div className="w-[1835px] h-[58px] text-center text-lg md:text-xl lg:text-4xl font-semibold mt-[-297px] ml-[-113px] ">
                 Installing HP Software and Drivers...
             </div> */}
-            <div className="flex 2xl:justify-center 2xl:ml-[357px] 2xl:mt-[-283px] xl:ml-[310px] xl:mt-[-190px] w-full max-w-4xl h-auto text-lg md:text-xl lg:text-2xl xl:text-4xl font-semibold mt-8 mx-4 md:mx-8 lg:mx-12 mt-[-197px] text-[#0D2EA0] sm:mt-[-360px]">
+            {/* <div className="flex 2xl:justify-center 2xl:ml-[357px] 2xl:mt-[-283px] xl:ml-[310px] xl:mt-[-190px] w-full max-w-4xl h-auto text-lg md:text-xl lg:text-2xl xl:text-4xl font-semibold mt-8 mx-4 md:mx-8 lg:mx-12 mt-[-197px] text-[#0D2EA0] sm:mt-[-360px]">
                 Installing HP Software and Drivers...
-            </div>
+            </div> */}
 
 
            

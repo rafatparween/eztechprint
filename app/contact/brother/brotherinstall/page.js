@@ -207,6 +207,7 @@
 import React, { useState, useEffect } from "react";
 import Image from "next/image";  // Make sure to import Image from Next.js
 import Storepage from "../../canonComponent/Storepage";
+import Link from "next/link";
 // import NavbarSection from "@/app/components/NavbarSection";
 // import FooterSection from "@/app/components/FooterSection";
 // import Storepage from "@/app/components/Storepage";
@@ -346,12 +347,14 @@ function Printersearch() {
                     Click Install Setup & driver to complete your printer setup
                   </p>
                 </div>
+                <Link href="./brotherinstall/process">
                 <button
-                  onClick={handleButtonClick} // Handle button click to show popup
+                  // onClick={handleButtonClick} // Handle button click to show popup
                   className="mt-[100px] border border-white bg-white w-[230px] h-[50px] py-2 px-6 rounded-lg font-bold shadow-md hover:bg-gray-100 transition duration-300 2xl:ml-[-193px] xl:ml-[-187px]"
                 >
                   <h1 className="text-[16px] text-black">Install Brother Start</h1>
                 </button>
+                </Link>
               </div>
 
               <div className="relative z-10 mt-12 lg:mt-0 lg:w-1/2 flex justify-center">

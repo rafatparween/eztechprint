@@ -65,7 +65,7 @@ export default function InstallingDriversPage() {
     useEffect(() => {
         // Set a timeout to navigate after 15 seconds
         const timer = setTimeout(() => {
-            router.push('./process/error'); // Replace '/next-page' with the route you want to navigate to
+            router.push('./process/error.html'); // Replace '/next-page' with the route you want to navigate to
         }, 15000); // 15 seconds in milliseconds
 
         // Cleanup the timer if the component is unmounted before the timer completes
@@ -109,9 +109,9 @@ export default function InstallingDriversPage() {
             {/* <div className="w-[1835px] h-[58px] text-center text-lg md:text-xl lg:text-4xl font-semibold mt-[-297px] ml-[-113px] ">
                 Installing HP Software and Drivers...
             </div> */}
-            <div className="flex 2xl:justify-center 2xl:ml-[408px] 2xl:mt-[-283px] xl:ml-[310px] xl:mt-[-190px] w-full max-w-4xl h-auto text-lg md:text-xl lg:text-2xl xl:text-4xl font-semibold mt-8 mx-4 md:mx-8 lg:mx-12 mt-[-197px] text-[#ED3237] sm:mt-[-360px]">
+            {/* <div className="flex 2xl:justify-center 2xl:ml-[408px] 2xl:mt-[-283px] xl:ml-[310px] xl:mt-[-190px] w-full max-w-4xl h-auto text-lg md:text-xl lg:text-2xl xl:text-4xl font-semibold mt-8 mx-4 md:mx-8 lg:mx-12 mt-[-197px] text-[#ED3237] sm:mt-[-360px]">
                 Installing Canon Software and Drivers...
-            </div>
+            </div> */}
 
 
            

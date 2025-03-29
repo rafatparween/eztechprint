@@ -248,8 +248,8 @@ function Home() {
 
   return (
     <>
-      {/* <NavbarSection/> */}
-      <div className="h-[530px] mt-[70px] ">
+      <NavbarSection/>
+      <div className="h-[530px] mt-[2px] ">
       <section
   className="relative flex flex-col justify-center items-center text-center py-12 h-[530px] bg-cover bg-center"
   style={{
