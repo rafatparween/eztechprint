@@ -334,7 +334,7 @@ export default function HeaderContact() {
 
         {/* Printer Cards */}
         <div className="relative z-10 max-w-7xl mx-auto grid grid-cols-1 md:grid-cols-4 gap-8 text-center pt-[40px]">
-          <Link href="/Contact/hp">
+          <Link href="/contact/hp">
             <div className="flex flex-col items-center cursor-pointer transform transition-transform duration-300 hover:scale-105">
               <Image
                 src="/h1.png"
@@ -353,7 +353,7 @@ export default function HeaderContact() {
             </div>
           </Link>
 
-          <Link href="/Contact/canon">
+          <Link href="/contact/canon">
             <div className="flex flex-col items-center cursor-pointer transform transition-transform duration-300 hover:scale-105">
               <Image
                 src="/canon.png"
@@ -372,7 +372,7 @@ export default function HeaderContact() {
             </div>
           </Link>
 
-          <Link href="/Contact/epson">
+          <Link href="/contact/epson">
             <div className="flex flex-col items-center cursor-pointer transform transition-transform duration-300 hover:scale-105">
               <Image
                 src="/epson.png"
@@ -391,7 +391,7 @@ export default function HeaderContact() {
             </div>
           </Link>
 
-          <Link href="/Contact/brother">
+          <Link href="/contact/brother">
             <div className="flex flex-col items-center cursor-pointer transform transition-transform duration-300 hover:scale-105">
               <Image
                 src="/brother.png"
