@@ -265,7 +265,7 @@ function Home() {
   </div>
 
           <div className=" inset-0 opacity-80"></div>
-          <div className="relative z-10 text-white 2xl:mt-[117px] xl:mt-[165px] 2xl:ml-[-825px] xl:ml-[-567px]  ">
+          <div className="relative z-10 text-white 2xl:mt-[117px] xl:mt-[165px] 2xl:ml-[-825px] xl:ml-[-327px]  ">
             <h1 className="text-4xl font-hp-simplified text-[44px] 2xl:ml-[-79px] xl:ml-[-134px]">Get started with your Printer</h1>
             <p className="mt-[35px] text-[24px] xl:ml-[94px] 2xl:ml-[138px]">Enter your Printer name and model number for Printer Setup Installation</p>
 
@@ -307,7 +307,7 @@ function Home() {
           </div>
           <div className='2xl:ml-[-826px] xl:ml-[-617px] text-white '>
             <Popup/>
-            <h1 className='underline 2xl:ml-[-455px] 2xl:mt-[25px] xl:ml-[-455px] xl:mt-[25px]'>My device is not listed</h1>
+            <h1 className='underline 2xl:ml-[-220px] 2xl:mt-[25px] xl:ml-[-220px] xl:mt-[25px]'>My device is not listed</h1>
           </div>
 
 

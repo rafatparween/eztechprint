@@ -1,7 +1,7 @@
 {
   "/page": "app/page.js",
+  "/contact/epson/epsoninstall/page": "app/contact/epson/epsoninstall/page.js",
+  "/contact/epson/page": "app/contact/epson/page.js",
   "/contact/page": "app/contact/page.js",
-  "/contact/hp/page": "app/contact/hp/page.js",
-  "/contact/hp/install/page": "app/contact/hp/install/page.js",
-  "/contact/hp/install/process/page": "app/contact/hp/install/process/page.js"
+  "/contact/hp/page": "app/contact/hp/page.js"
 }

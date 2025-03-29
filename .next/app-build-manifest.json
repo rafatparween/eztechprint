@@ -16,20 +16,30 @@
       "static/chunks/main-app.js",
       "static/chunks/app/contact/page.js"
     ],
+    "/contact/canon/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/contact/canon/page.js"
+    ],
+    "/contact/epson/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/contact/epson/page.js"
+    ],
+    "/contact/epson/epsoninstall/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/contact/epson/epsoninstall/page.js"
+    ],
+    "/contact/epson/epsoninstall/process/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/contact/epson/epsoninstall/process/page.js"
+    ],
     "/contact/hp/page": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
       "static/chunks/app/contact/hp/page.js"
-    ],
-    "/contact/hp/install/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/contact/hp/install/page.js"
-    ],
-    "/contact/hp/install/process/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/contact/hp/install/process/page.js"
     ]
   }
 }

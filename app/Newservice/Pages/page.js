@@ -401,7 +401,7 @@ function Home() {
           </div>
           <div className='2xl:ml-[-826px] xl:ml-[-617px] text-white '>
             <Popup/>
-            <h1 className='underline 2xl:ml-[-455px] 2xl:mt-[25px] xl:ml-[-455px] xl:mt-[25px]'>My device is not listed</h1>
+            <h1 className='underline 2xl:ml-[-219px] 2xl:mt-[25px] xl:ml-[-219px] xl:mt-[25px]'>My device is not listed</h1>
           </div>
 
 

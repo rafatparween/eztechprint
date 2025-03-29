@@ -206,7 +206,7 @@
 "use client";
 import React, { useState, useEffect } from "react";
 import Image from "next/image";  // Make sure to import Image from Next.js
-import NavbarSection from "@/app/Components/NavbarSection";
+// import NavbarSection from "@/app/Components/NavbarSection";
 import Storepage from "@/app/Components/Storepage";
 import Link from "next/link";
 // import NavbarSection from "@/app/components/NavbarSection";
@@ -302,8 +302,8 @@ function Printersearch() {
 
   return (
     <>
-      <NavbarSection/>
-      <div className={`h-[530px] ${isPopupVisible ? "blur-sm" : ""}`}>
+      {/* <NavbarSection/> */}
+      <div className={`h-[530px] mt-[70px] ${isPopupVisible ? "blur-sm" : ""}`}>
         <section
           className="flex flex-col justify-center items-center text-center py-12 relative bg-cover bg-center h-[530px]"
           // style={{
@@ -336,7 +336,7 @@ function Printersearch() {
                 <Link href="./epsoninstall/process">
                 <button
                   // onClick={handleButtonClick} // Handle button click to show popup
-                  className="mt-[100px] border border-white bg-white w-[230px] h-[50px] py-2 px-6 rounded-lg font-bold shadow-md hover:bg-gray-100 transition duration-300 2xl:ml-[-193px] xl:ml-[-187px]"
+                  className="mt-[10px] border border-white bg-white w-[230px] h-[50px] py-2 px-6 rounded-lg font-bold shadow-md hover:bg-gray-100 transition duration-300 2xl:ml-[-193px] xl:ml-[-187px]"
                 >
                   <h1 className="text-[16px] text-black">Install Epson Start</h1>
                 </button>
@@ -351,14 +351,14 @@ function Printersearch() {
         </section>
 
         <div className="flex flex-col items-center xl:ml-[-468px] 2xl:ml-[-688px]">
-          <h1 className="mt-[30px] 2xl:ml-[-592px] xl:ml-[-592px] text-[16px]">
+          {/* <h1 className="mt-[30px] 2xl:ml-[-592px] xl:ml-[-592px] text-[16px]">
             Also available on:
-          </h1>
-          <img
+          </h1> */}
+          {/* <img
             src="https://www.freepnglogos.com/uploads/app-store-logo-png/google-play-and-apple-app-store-logos-22.png"
             className="h-[50px] mt-4 ml-[-406px]"
             alt="Available on"
-          />
+          /> */}
         </div>
       </div>
 

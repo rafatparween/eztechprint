@@ -165,7 +165,7 @@ const Popup = () => {
       {/* Trigger link */}
       <button
         onClick={togglePopup}
-        className="underline 2xl:ml-[-426px] 2xl:mt-[25px] xl:ml-[-426px] xl:mt-[25px]"
+        className="underline 2xl:ml-[-192px] 2xl:mt-[25px] xl:ml-[-192px] xl:mt-[25px]"
       >
         Where's the printer name?
       </button>
@@ -243,7 +243,7 @@ const Popup = () => {
                 ></span>
               ))}
             </div>
-            <h1 className="underline 2xl:ml-[-455px] 2xl:mt-[25px] xl:ml-[-455px] xl:mt-[25px]">
+            <h1 className="underline 2xl:ml-[-455px] 2xl:mt-[25px] xl:ml-[-219px] xl:mt-[25px]">
               My device is not listed
             </h1>
           </div>
