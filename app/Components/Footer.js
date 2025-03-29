@@ -19,7 +19,7 @@ const Footer = () => {
                         {[
                             { name: 'Home', path: '/' },
                             { name: 'About us', path: '/about' },
-                            { name: 'Contact us', path: '/Contact' },
+                            { name: 'Contact us', path: '/contact' },
                             { name: 'Services', path: '/' },
                             { name: 'Disclaimer', path: '/Disclaimer' }
                         ].map(({ name, path }) => (
