@@ -76,7 +76,7 @@ export default function ErrorPage() {
                   <div className="bg-gray-100 px-6 py-4 flex justify-between items-center h-[79px]">
                     <div className="text-left">
                       {/* <h1 className="text-lg font-semibold">Installing</h1> */}
-                      <p className="text-gray-600 text-md">Fatal error occurred during installation..</p>
+                      <p className="text-gray-600 text-md">Printer Setup Installation is Failed..</p>
                     </div>
                     {/* <img
                       src="https://abhishekid.com/wp-content/uploads/epson-logo.png" className="h-[64px] w-[66px]"

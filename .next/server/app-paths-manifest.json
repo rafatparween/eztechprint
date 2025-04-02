@@ -1,7 +1,8 @@
 {
-  "/page": "app/page.js",
-  "/contact/epson/epsoninstall/page": "app/contact/epson/epsoninstall/page.js",
-  "/contact/epson/page": "app/contact/epson/page.js",
-  "/contact/page": "app/contact/page.js",
-  "/contact/hp/page": "app/contact/hp/page.js"
+  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/contact/hp/install/process/error.html/page": "app/contact/hp/install/process/error.html/page.js",
+  "/contact/canon/page": "app/contact/canon/page.js",
+  "/contact/canon/canoninstall/page": "app/contact/canon/canoninstall/page.js",
+  "/contact/canon/canoninstall/process/page": "app/contact/canon/canoninstall/process/page.js",
+  "/contact/canon/canoninstall/process/error.html/page": "app/contact/canon/canoninstall/process/error.html/page.js"
 }

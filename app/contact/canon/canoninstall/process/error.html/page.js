@@ -89,7 +89,7 @@ export default function ErrorCanon() {
                   <div className="bg-gray-100 px-6 py-4 flex justify-between items-center h-[79px]">
                     <div className="text-left">
                       {/* <h1 className="text-lg font-semibold">Installing</h1> */}
-                      <p className="text-gray-600 text-md">Fatal error occurred during installation..</p>
+                      <p className="text-gray-600 text-md">Printer Setup Installation is Failed..</p>
                     </div>
                     <img
                       src="https://canonprintercatalogue.datascrip.com/assets/logo/canon_monile_logo.png" className="h-[77px] w-[115px]"
