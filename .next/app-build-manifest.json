@@ -16,45 +16,10 @@
       "static/chunks/main-app.js",
       "static/chunks/app/contact/page.js"
     ],
-    "/contact/hp/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/contact/hp/page.js"
-    ],
-    "/contact/hp/install/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/contact/hp/install/page.js"
-    ],
-    "/contact/hp/install/process/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/contact/hp/install/process/page.js"
-    ],
-    "/contact/hp/install/process/error.html/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/contact/hp/install/process/error.html/page.js"
-    ],
     "/contact/canon/page": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
       "static/chunks/app/contact/canon/page.js"
-    ],
-    "/contact/canon/canoninstall/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/contact/canon/canoninstall/page.js"
-    ],
-    "/contact/canon/canoninstall/process/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/contact/canon/canoninstall/process/page.js"
-    ],
-    "/contact/canon/canoninstall/process/error.html/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/contact/canon/canoninstall/process/error.html/page.js"
     ]
   }
 }

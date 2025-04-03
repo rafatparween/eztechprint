@@ -11,6 +11,7 @@
 // import Error from './components/Error';
 
 import Digonode from "../Components/Digonode";
+import JivoChat from "../JivoChat";
 import AssistanceContact from "./canonComponent/AssistanceContact";
 import HeaderContact from "./canonComponent/HeaderContact";
 import SkillsGrid from "./canonComponent/Skillsgrid";
@@ -55,6 +56,8 @@ export default function Home() {
       <TechniciansContact/>
       <AssistanceContact/>
       <SkillsGrid/>
+
+      <JivoChat/>
       
 
      

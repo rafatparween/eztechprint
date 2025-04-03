@@ -615,6 +615,7 @@ import Image from "next/image";
 import { useState } from "react";
 import { FaCog, FaFileAlt, FaDownload, FaEnvelope, FaQuestionCircle } from "react-icons/fa";
 import { useRouter } from "next/navigation";
+import JivoChat from "@/app/JivoChat";
 
 const CanonProductPage = () => {
   const [selectedModel, setSelectedModel] = useState("");
@@ -671,6 +672,7 @@ const CanonProductPage = () => {
   const toggleExpand = () => setIsExpanded(!isExpanded);
 
   return (
+    <>
     <div className="bg-white min-h-screen w-[80%] m-auto">
       {/* Canon Header with logo and search */}
       <header className="border-b py-4 bg-gray-100">
@@ -921,6 +923,8 @@ const CanonProductPage = () => {
         </section>
       </main>
     </div>
+    <JivoChat/>
+    </>
   );
 };
 
