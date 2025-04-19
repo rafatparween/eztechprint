@@ -14,8 +14,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata = {
-  title: "ijprinterlivesolution",
-  description: "ijprinterlivesolution",
+  title: "Micro Hub Care",
+  description: "Micro Hub Care",
 };
 
 export default function RootLayout({ children }) {
