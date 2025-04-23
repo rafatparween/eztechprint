@@ -105,7 +105,7 @@ export default function ErrorCanon() {
                       />
                     </div>
                     <p className="text-gray-800 mb-4 text-center">
-                      Fatal Error occurred Code: 0x6100004a during the software installation setup.
+                      Fatal Error occurred Code:C00000224a during the software installation setup.
                       <br />
                       Please Contact Support before attempting to install it again.
                     </p>

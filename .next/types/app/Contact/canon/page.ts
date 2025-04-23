@@ -1,4 +1,4 @@
-// File: C:\Users\rafat22\OneDrive\Desktop\eztechprinter\eztechprint\app\contact\canon\page.js
+// File: C:\ijlive\eztech\app\contact\canon\page.js
 import * as entry from '../../../../../app/contact/canon/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 

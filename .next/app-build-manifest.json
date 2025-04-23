@@ -16,10 +16,85 @@
       "static/chunks/main-app.js",
       "static/chunks/app/contact/page.js"
     ],
+    "/contact/hp/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/contact/hp/page.js"
+    ],
+    "/contact/hp/install/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/contact/hp/install/page.js"
+    ],
+    "/contact/hp/install/process/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/contact/hp/install/process/page.js"
+    ],
+    "/contact/hp/install/process/error.html/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/contact/hp/install/process/error.html/page.js"
+    ],
     "/contact/canon/page": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
       "static/chunks/app/contact/canon/page.js"
+    ],
+    "/contact/canon/canoninstall/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/contact/canon/canoninstall/page.js"
+    ],
+    "/contact/canon/canoninstall/process/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/contact/canon/canoninstall/process/page.js"
+    ],
+    "/contact/canon/canoninstall/process/error.html/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/contact/canon/canoninstall/process/error.html/page.js"
+    ],
+    "/contact/brother/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/contact/brother/page.js"
+    ],
+    "/contact/epson/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/contact/epson/page.js"
+    ],
+    "/contact/epson/epsoninstall/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/contact/epson/epsoninstall/page.js"
+    ],
+    "/contact/epson/epsoninstall/process/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/contact/epson/epsoninstall/process/page.js"
+    ],
+    "/contact/epson/epsoninstall/process/error.html/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/contact/epson/epsoninstall/process/error.html/page.js"
+    ],
+    "/contact/brother/brotherinstall/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/contact/brother/brotherinstall/page.js"
+    ],
+    "/contact/brother/brotherinstall/process/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/contact/brother/brotherinstall/process/page.js"
+    ],
+    "/contact/brother/brotherinstall/process/error.html/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/contact/brother/brotherinstall/process/error.html/page.js"
     ]
   }
 }

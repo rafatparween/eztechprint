@@ -395,6 +395,7 @@
 import { useState } from 'react';
 import { useRouter } from 'next/navigation';
 import Middle from '../canonComponent/Middle';
+import BrotherMiddle from '@/app/Components/BrotherMiddle';
 
 // import FooterSection from '../components/FooterSection';
 
@@ -555,7 +556,7 @@ export default function ManualsPage() {
       </main>
     </div>
     <div >
-      <Middle/>
+      <BrotherMiddle/>
     </div>
     {/* <FooterSection/> */}
     </>
