@@ -1,10 +1,5 @@
 {
-  "/_not-found/page": "app/_not-found/page.js",
   "/favicon.ico/route": "app/favicon.ico/route.js",
-  "/contact/page": "app/contact/page.js",
-  "/contact/canon/canoninstall/process/error.html/page": "app/contact/canon/canoninstall/process/error.html/page.js",
-  "/contact/hp/page": "app/contact/hp/page.js",
-  "/contact/hp/install/page": "app/contact/hp/install/page.js",
-  "/contact/hp/install/process/page": "app/contact/hp/install/process/page.js",
-  "/contact/hp/install/process/error.html/page": "app/contact/hp/install/process/error.html/page.js"
+  "/page": "app/page.js",
+  "/contact/page": "app/contact/page.js"
 }

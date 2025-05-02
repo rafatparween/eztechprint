@@ -1,68 +1,25 @@
-// // app/page.js
-// import { Montserrat } from 'next/font/google';
-// import SkillsGrid from './components/Skillsgrid';
-// import Technicians from './components/Technicians';
-// import Assistance from './components/Assistance';
-// import Avoidprinter from './components/Avoidprinter';
-// import Help from './components/Help';
-// // import Newlife from './components/Newlife';
-// import Header from './components/Header';
-// import Footer from './components/Footer';
-// import Error from './components/Error';
-
-import Digonode from "../Components/Digonode";
+import Footer from "../Components/Footer";
 import JivoChat from "../JivoChat";
-import AssistanceContact from "./canonComponent/AssistanceContact";
-import HeaderContact from "./canonComponent/HeaderContact";
-import SkillsGrid from "./canonComponent/Skillsgrid";
-import TechniciansContact from "./canonComponent/TechniciansContact";
-
-// // Import Montserrat font
-// const montserrat = Montserrat({
-//   subsets: ['latin'],
-//   weight: ['400', '500', '600', '700'],
-// });
-
-// export default function Home() {
-//   return (
-//     <main className={montserrat.className}>
-//       <Header/>
-//       <Technicians/>
-//       <Assistance/>
-//       <SkillsGrid />
-//       {/* <Avoidprinter/>
-//       <Help/>
-//       <Error/> */}
-
-      
-//       <Footer/>
-
-     
-//     </main>
-//   );
-// }
-
-
+import Diagnose from "./pages/Digonose";
+import PageHeader from "./pages/PageHeader";
+import PageNavbar from "./pages/PageNavbar";
+import Printerissue from "./pages/Printerissue";
+import SupportTabs from "./pages/SupportTabs";
+import Troubleshoot from "./pages/Troubleshoot";
 
 export default function Home() {
-  return (
-    <main className>
-      {/* <Header/>
-      <Technicians/>
-      <Assistance/>
-      <SkillsGrid /> */}
-      <HeaderContact/>
-      <Digonode/>
-      <TechniciansContact/>
-      <AssistanceContact/>
-      <SkillsGrid/>
-
-      <JivoChat/>
+    return (
+      <>
+      <PageNavbar/>
+      <PageHeader/>
+      <Troubleshoot/>
+      <SupportTabs/>
       
-
      
+      <JivoChat/>
 
-     
-    </main>
-  );
-}
+       
+      </>
+    );
+  }
+  
