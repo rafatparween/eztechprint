@@ -52,8 +52,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata = {
-  title: "Printer Support",
-  description: "Printer Support",
+  title: "ijprinterlivesolution",
+  description: "ijprinterlivesolution",
 };
 
 export default function RootLayout({ children }) {
