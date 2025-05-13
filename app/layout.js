@@ -37,7 +37,6 @@
 
 import { Geist, Geist_Mono } from "next/font/google";
 import "./globals.css";
-import Navbar from "./Components/Navbar";
 import Footer from "./Components/Footer";
 import Script from "next/script"; // ✅ Import Script
 
@@ -82,7 +81,7 @@ export default function RootLayout({ children }) {
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
       >
-        <Navbar />
+        
         <main>{children}</main>
         <Footer />
       </body>
