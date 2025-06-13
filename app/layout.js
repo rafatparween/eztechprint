@@ -51,8 +51,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata = {
-  title: "ijprinterlivesolution",
-  description: "ijprinterlivesolution",
+  title: "micro-sonic.online",
+  description: "micro-sonic.online",
 };
 
 export default function RootLayout({ children }) {
